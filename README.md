@@ -13,8 +13,6 @@
       <li><a href="https://github.com/magugolenc">GitHub</a></li>
       <li>Gmail: jgargut0504@g.educaand.es</li>
     </ul>
-    
-    <p>¡No dudes en contactarme si tienes alguna pregunta o sugerencia!</p>
   </div>
 </body>
 </html>
